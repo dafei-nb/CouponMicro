@@ -1,6 +1,8 @@
 package cn.cdqf.kjxzmanager.dao;
 
 import cn.cdqf.kjxzmanager.entity.CouponTemplate;
+import org.apache.ibatis.annotations.Mapper;
+
 
 public interface CouponTemplateMapper {
     int deleteByPrimaryKey(Integer id);
