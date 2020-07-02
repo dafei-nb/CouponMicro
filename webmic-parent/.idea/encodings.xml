@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Encoding">
+    <file url="file://$PROJECT_DIR$/kjxz-coupon/kjxz-common/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kjxz-coupon/kjxz-dispatch/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kjxz-coupon/kjxz-manager/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kjxz-coupon/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/kjxz-coupon/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/src/main/resources" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/webmic-eureka/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/webmic-global/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/webmic-zuul/src/main/java" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/wemic-conifg/src/main/java" charset="UTF-8" />
+  </component>
+</project>

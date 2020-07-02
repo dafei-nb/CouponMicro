@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="wemic-conifg" />
+        <module name="webmic-global" />
+        <module name="kjxz-dispatch" />
+        <module name="webmic-eureka" />
+        <module name="kjxz-common" />
+        <module name="kjxz-manager" />
+        <module name="webmic-zuul" />
+      </profile>
+    </annotationProcessing>
+  </component>
+  <component name="JavacSettings">
+    <option name="ADDITIONAL_OPTIONS_OVERRIDE">
+      <module name="kjxz-common" options="-parameters" />
+      <module name="kjxz-coupon" options="-parameters" />
+      <module name="kjxz-dispatch" options="-parameters" />
+      <module name="kjxz-manager" options="-parameters" />
+      <module name="webmic-eureka" options="-parameters" />
+      <module name="webmic-global" options="-parameters" />
+      <module name="webmic-zuul" options="-parameters" />
+      <module name="wemic-conifg" options="-parameters" />
+    </option>
+  </component>
+</project>
